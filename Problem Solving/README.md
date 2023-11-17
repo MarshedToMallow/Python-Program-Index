@@ -5,7 +5,7 @@ Solutions to various well-known problems.
 # List
 
 - [ ] Traveling Salesman
-- [ ] Knapsack Problem
+- [x] Knapsack Problem
 - [ ] Sudoku Solver
 - [ ] N-Queens Puzzle
 - [ ] Change-Making Problem
