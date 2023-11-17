@@ -1,4 +1,4 @@
-def knapsack_recursive(weights: list[int], values: list[int], capacity: int, remaining_items: int):
+def knapsack_recursive(weights: list[int], values: list[int], capacity: int, remaining_items: int) -> int:
     """Returns the best possible total value for the provided instance of the Knapsack Problem.
     Arguments:
     weights         --   the list of the weights of the items
