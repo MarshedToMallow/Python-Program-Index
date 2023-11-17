@@ -1,2 +1,3 @@
-# Algorithms
-Various Algorithms in Python
+# Python Program Index
+
+An index of various Python programs.
