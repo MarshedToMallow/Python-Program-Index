@@ -4,9 +4,9 @@ An index of various Python programs.
 
 # Directory
 
-- Algorithm Groups
-- Math
-- Problem Solving
+- [Algorithm Groups](https://github.com/MarshedToMallow/Python-Program-Index/tree/main/Algorithm%20Groups)
+- [Math](https://github.com/MarshedToMallow/Python-Program-Index/tree/main/Math)
+- [Problem Solving](https://github.com/MarshedToMallow/Python-Program-Index/tree/main/Problem%20Solving)
 
 # FAQ
 
