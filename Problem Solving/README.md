@@ -8,6 +8,6 @@ Solutions to various well-known problems.
 - [x] Knapsack Problem
 - [ ] Sudoku Solver
 - [ ] N-Queens Puzzle
-- [ ] Change-Making Problem
+- [x] Change-Making Problem
 
 *Missing something?  Make an issue or even a pull request!*
